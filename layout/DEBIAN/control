@@ -1,5 +1,5 @@
-Package: com.whomer.BookmarksBarTweak
-Name: BookmarksBarTweak
+Package: com.whomer.BookmarksBarEnhancer
+Name: BookmarksBarEnhancer
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
